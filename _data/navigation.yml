@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: https://john-abbott-college.github.io/SN1-Notes-W25/
   - title: "Getting Started"
-    url: /getting-started/
+    url: /start/
   - title: "Notes"
     url: /notes/
   - title: "Practice"
