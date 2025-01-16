@@ -1,5 +1,5 @@
-** Programmin in Science - Winter 2025
-
+# Programmin in Science - Winter 2025
+This website is used for the notes of the course 420-SN1.
 
 # Test the website locally
 ## Windows:
@@ -20,3 +20,5 @@ Make sure there are no errors
 ```
 bundle exec jekyll serve
 ```
+The link to the local website should appear in the console and it should look like:
+> Server address: http://127.0.0.1:4000
