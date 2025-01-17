@@ -1,7 +1,22 @@
 # main links
 main:
   - title: "Getting Started"
-    url: /start/
+    children: 
+    - title: "Installing Python - Windows"
+    - url:
+    - title: "Installing Python - Mac"
+    - url: 
+    - title: "Installing PyCharm - Windows"
+    - url: 
+    - title: "Installing PyCharm - Mac"
+    - url: 
+    - title: "Creating a new project"
+    - url: 
+    - title: "Finding and fixing mistakes"
+    - url: 
+    - title: "Using Léa"
+    - url:
+
   - title: "Notes"
     url: /notes/
   - title: "Practice"
