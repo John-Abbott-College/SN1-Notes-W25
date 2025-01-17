@@ -1,6 +1,14 @@
 # main links
 main:
   - title: "Getting Started"
+    url: /getting_started/
+  - title: "Notes"
+    url: /notes/
+  - title: "Practice"
+    url: /practice/
+
+start:
+  - title: "Getting Started"
     children: 
     - title: "Installing Python - Windows"
     - url:
@@ -16,8 +24,3 @@ main:
     - url: 
     - title: "Using Léa"
     - url:
-
-  - title: "Notes"
-    url: /notes/
-  - title: "Practice"
-    url: /practice/
